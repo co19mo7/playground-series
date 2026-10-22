@@ -1,5 +1,7 @@
-.venv/
-.DS_Store
-Data/
-catboost_info/
 *.code-workspace
+.DS_Store
+.venv/
+catboost_info/
+data/
+kaggle/
+submissions/
